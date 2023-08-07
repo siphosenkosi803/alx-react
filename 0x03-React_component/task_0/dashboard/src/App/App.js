@@ -7,7 +7,7 @@ import PropTypes from 'prop-types';
 import Login from "../Login/Login";
 import { getLatestNotification } from '../utils/utils';
 
-class App extends React.component {
+class App extends React.Component {
   constructor(props) {
     super(props);
 
@@ -46,4 +46,3 @@ App.propTypes = {
 };
 
 export default App;
-
