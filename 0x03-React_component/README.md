@@ -1,8 +1,3 @@
------------------
-REACT COMPONENT
------------------
-
-
 Tasks
 0. Commence with class components
 mandatory
@@ -254,3 +249,4 @@ Repo:
 GitHub repository: alx-react
 Directory: 0x03-React_component
 File: task_5/dashboard/src/Notifications/Notifications.test.js
+
